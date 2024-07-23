@@ -336,7 +336,7 @@
 													</li>
 													<li>
 														Implemented KNN (K Nearest Neighbour) algorithm with Dynamic Time Warping and geometrical heuristics on
-														time series video data to provide natural language feedback.
+														time-series video data to provide natural language feedback.
 													</li>
 
 												</ul>
